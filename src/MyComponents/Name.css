@@ -1,0 +1,8 @@
+.bold{
+    font-family: Satisfy, cursive;
+  font-size: 2em;
+  margin: 1em 0;
+  color: SandyBrown;
+  text-shadow: 0.02em 0.02em 0 Brown, 0 0 0.5em violet;
+  cursor: progress;
+}
